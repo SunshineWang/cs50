@@ -1,4 +1,4 @@
-# cs50
+# CS50
 
 Hi, this is my CS50 work repository.
 
